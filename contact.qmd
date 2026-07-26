@@ -1,0 +1,29 @@
+---
+title: "Contact"
+description: "Contact Anthony Rivera regarding research and academic collaboration."
+toc: false
+---
+
+## Academic correspondence
+
+I welcome correspondence concerning econometrics, monetary economics, public-policy research, doctoral study, and potential research collaboration.
+
+**Email:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)  
+**GitHub:** [github.com/rivera-anthony](https://github.com/rivera-anthony)  
+**LinkedIn:** [Add LinkedIn profile](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/)  
+**Location:** Chicago, Illinois
+
+::: {.contact-note}
+For research inquiries, please include a brief description of the topic, the relevant institution or project, and any proposed timeline.
+:::
+
+## Research materials
+
+- [Research agenda](research.qmd)
+- [Project portfolio](projects.qmd)
+- [Code and data](code.qmd)
+- [Curriculum vitae](cv.qmd)
+
+::: {.placeholder}
+Replace the email address and profile URLs before publishing the site.
+:::

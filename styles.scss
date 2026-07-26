@@ -1,0 +1,180 @@
+/*-- scss:defaults --*/
+
+$navy: #17324d;
+$navy-dark: #102538;
+$burgundy: #7a3045;
+$ivory: #f8f6f1;
+$paper: #fffefa;
+$ink: #25282b;
+$muted: #626a70;
+$border: #d8d4ca;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $burgundy;
+$link-hover-color: #551f30;
+$primary: $navy;
+$font-family-sans-serif: "Inter", "Avenir Next", "Segoe UI", sans-serif;
+$headings-font-family: "Iowan Old Style", "Baskerville", "Georgia", serif;
+$headings-color: $navy-dark;
+$navbar-bg: $ivory;
+$navbar-fg: $navy-dark;
+$footer-bg: $ivory;
+
+/*-- scss:rules --*/
+
+body {
+  letter-spacing: 0.005em;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+h1 {
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  margin-top: 2.8rem;
+}
+
+p, li {
+  line-height: 1.72;
+}
+
+.navbar {
+  border-bottom: 1px solid $border;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.nav-link {
+  font-size: 0.93rem;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.65fr) minmax(17rem, 0.75fr);
+  gap: 4rem;
+  padding: 5.5rem 0 4.5rem;
+  border-bottom: 1px solid $border;
+}
+
+.hero h2 {
+  max-width: 16ch;
+  margin-top: 0;
+  font-size: clamp(2.35rem, 5vw, 4.5rem);
+  line-height: 1.06;
+}
+
+.hero-copy > p {
+  max-width: 52rem;
+  font-size: 1.12rem;
+}
+
+.hero-aside {
+  align-self: end;
+  padding: 1.6rem;
+  background: $ivory;
+  border-top: 3px solid $burgundy;
+}
+
+.hero-aside p,
+.hero-aside li {
+  font-size: 0.93rem;
+}
+
+.research-grid {
+  margin-top: 1.5rem;
+}
+
+.research-card {
+  padding: 1.5rem;
+  background: $ivory;
+  border-top: 2px solid $navy;
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+.project-feature {
+  padding: 1.4rem 0 1.6rem;
+  border-bottom: 1px solid $border;
+}
+
+.project-feature h3 {
+  margin-top: 0;
+}
+
+.initiative {
+  margin: 1.5rem 0;
+  padding: 1.8rem 2rem;
+  background: #f2f4f4;
+  border-left: 4px solid $navy;
+}
+
+.initiative h3 {
+  margin-top: 0;
+}
+
+.placeholder {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  color: $muted;
+  background: $ivory;
+  border: 1px dashed #aaa69d;
+  border-radius: 0.2rem;
+}
+
+.contact-note {
+  max-width: 48rem;
+  margin: 2rem 0;
+  padding: 1.25rem 1.4rem;
+  background: $ivory;
+  border-left: 3px solid $burgundy;
+}
+
+.btn {
+  margin-top: 0.75rem;
+  margin-right: 0.45rem;
+  border-radius: 0.15rem;
+}
+
+code {
+  color: $navy-dark;
+  background: $ivory;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+.page-footer {
+  margin-top: 5rem;
+  border-top: 1px solid $border;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 3.5rem 0 3rem;
+  }
+
+  .hero h2 {
+    font-size: 2.6rem;
+  }
+
+  .hero-aside {
+    align-self: auto;
+  }
+}
+

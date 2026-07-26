@@ -1,0 +1,80 @@
+---
+title: "Code & Data"
+description: "Reproducible research, data workflows, and econometric methods."
+---
+
+## Reproducible research
+
+My research workflow is designed to make the path from raw data to reported result as transparent as possible. Repositories listed here will document source acquisition, cleaning decisions, model specifications, diagnostics, tables, and figures.
+
+::: {.placeholder}
+**Before publishing repositories:** remove credentials and local file paths; confirm data-sharing permissions; add a license, citation file, environment lockfile, and reproducibility instructions.
+:::
+
+## Featured repositories
+
+### CBDC monetary transmission
+
+Monthly macro-financial data construction and models of monetary-policy transmission in Switzerland.
+
+- **Languages:** R and Python
+- **Methods:** Interaction models, HAC inference, and time-series analysis
+- **Repository:** [Add GitHub URL](https://github.com/rivera-anthony/YOUR-CBDC-REPOSITORY)
+- **Paper:** [Add PDF](#)
+- **Data guide:** [Add documentation](#)
+
+### Quantitative easing and the term premium
+
+Data pipeline joining Federal Reserve holdings, Treasury market measures, term-premium estimates, inflation, policy rates, and volatility.
+
+- **Language:** Python
+- **Methods:** Newey–West estimation and VAR analysis
+- **Repository:** [Add GitHub URL](https://github.com/rivera-anthony/YOUR-QE-REPOSITORY)
+- **Paper:** [Add PDF](#)
+- **Data guide:** [Add documentation](#)
+
+### Bilateral defense trade
+
+UN Comtrade retrieval, product classification, bilateral panel construction, fixed-effects estimation, and concentration analysis.
+
+- **Language:** Python
+- **Methods:** Two-way fixed effects, difference-in-differences, and HHI
+- **Repository:** [Add GitHub URL](https://github.com/rivera-anthony/YOUR-TRADE-REPOSITORY)
+- **Paper:** [Add PDF](#)
+- **Classification guide:** [Add documentation](#)
+
+### Medicaid policy replication
+
+An R-based replication workflow with state-clustered inference and publication-ready tables.
+
+- **Language:** R
+- **Methods:** Difference-in-differences and clustered standard errors
+- **Repository:** [Add GitHub URL](https://github.com/rivera-anthony/YOUR-MEDICAID-REPOSITORY)
+- **Policy brief:** [Add PDF](#)
+
+## Methods represented
+
+| Area | Methods |
+|---|---|
+| Causal inference | Difference-in-differences, event studies, fixed effects, matching, instrumental variables, regression discontinuity |
+| Time series | VAR, lag selection, impulse-response functions, forecast-error variance decomposition |
+| Statistical inference | HAC and clustered standard errors, specification and robustness checks |
+| Data engineering | API retrieval, panel construction, temporal aggregation, data validation, reproducible transformations |
+| Communication | Quarto, LaTeX, model tables, annotated figures, research documentation |
+
+## Data principles
+
+I aim to publish:
+
+1. Source descriptions and access dates
+2. Retrieval and cleaning scripts
+3. Variable definitions
+4. Model specifications
+5. Reproduction instructions
+6. Known limitations
+
+I do not redistribute restricted or licensed data. When sharing is prohibited, I provide source links and code that authorized users can run against the original source.
+
+## Profile
+
+[GitHub profile](https://github.com/rivera-anthony)

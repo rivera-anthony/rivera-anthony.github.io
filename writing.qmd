@@ -1,0 +1,49 @@
+---
+title: "Writing"
+description: "Policy briefs, research essays, and writing on economic thought."
+---
+
+## Selected writing
+
+This section will collect writing intended for audiences beyond a single empirical paper: policy briefs, literature reviews, research essays, and carefully developed commentary on economics and institutions.
+
+## Policy briefs
+
+### Medicaid Expansion and Health Outcomes
+
+A concise interpretation of empirical evidence on Medicaid expansion, with attention to research design, uncertainty, and implications for policy.
+
+[Read the brief — add PDF](#)
+
+### Strategic Trade and Economic Dependency
+
+A proposed brief translating supplier-concentration and bilateral trade evidence into questions for economic-security policy.
+
+[Add policy brief](#)
+
+## Research essays
+
+### Central-Bank Digital Currencies and Monetary Institutions
+
+An essay on the institutional questions raised by CBDCs, including monetary transmission, privacy, financial intermediation, and public trust.
+
+[Add essay](#)
+
+### Governance Capacity in an Age of Economic Fragmentation
+
+An essay connecting state capacity, technical advisory institutions, strategic competition, and development policy.
+
+[Add essay](#)
+
+## Exploring Economic Thought
+
+*Exploring Economic Thought* is a developing public-scholarship project on the history of economic ideas and their relationship to political, ethical, and institutional life. Material will appear here only after it has been edited and sourced to an academic standard.
+
+[Add project introduction](#) · [Add episode archive](#)
+
+## Publication note
+
+::: {.placeholder}
+Replace each placeholder with a stable page or PDF. Include publication dates, revision dates, citations, and a short disclosure when a piece originated as coursework or public commentary.
+:::
+

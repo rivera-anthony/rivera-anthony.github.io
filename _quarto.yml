@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Anthony Rivera"
+  description: "Econometrics, monetary economics, and applied policy research"
+  site-url: "https://rivera-anthony.github.io/YOUR-REPOSITORY/"
+  favicon: "assets/favicon.svg"
+  open-graph: true
+  twitter-card: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Code & Data"
+        href: code.qmd
+      - text: "Writing"
+        href: writing.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: "https://github.com/rivera-anthony"
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"
+        aria-label: "LinkedIn"
+      - icon: envelope
+        href: contact.qmd
+        aria-label: "Contact"
+  page-footer:
+    left: "© 2026 Anthony Rivera"
+    center: "Econometrics · Monetary Economics · Applied Policy"
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "GitHub"
+        href: "https://github.com/rivera-anthony"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+
+execute:
+  freeze: auto

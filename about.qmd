@@ -1,0 +1,57 @@
+---
+title: "About"
+description: "Academic biography and research background."
+---
+
+## Biography
+
+I am an emerging economist completing graduate training in econometrics. My research interests lie at the intersection of monetary economics, causal policy evaluation, international political economy, and institutional development. I am especially interested in questions that require both careful empirical identification and a serious understanding of the institutions through which policy operates.
+
+My graduate work has allowed me to study monetary-policy transmission, central-bank digital currencies, quantitative easing, health-policy evaluation, development economics, and strategic trade. Across these areas, I aim to move beyond technical estimation alone: I want to understand what an empirical result means for institutional design, state capacity, and public decision-making.
+
+I am preparing for advanced study in economics and political economy, with the long-term objective of contributing to policy research in universities, governments, international organizations, and research institutes.
+
+## Intellectual trajectory
+
+My interest in economics began with a broad concern for how institutions create—or constrain—the conditions for human development. Econometrics gave that concern an empirical discipline. It provides a way to test policy claims, distinguish association from credible causal evidence, and communicate uncertainty honestly.
+
+Monetary economics became a central focus because central banks sit at a consequential intersection of markets, public authority, technology, and institutional trust. This led to research on CBDCs, asset purchases, interest-rate transmission, and the changing infrastructure of money. In parallel, work in program evaluation and applied economics broadened my interest in health policy, development interventions, and governance capacity.
+
+I now seek to bring these strands together through a research agenda on monetary institutions, policy effectiveness, strategic economic change, and computational economic intelligence.
+
+## Research interests
+
+- Applied econometrics and causal inference
+- Monetary economics and central banking
+- Central-bank digital currencies and digital sovereignty
+- Quantitative easing and financial transmission
+- International political economy and strategic trade
+- Governance, institutional capacity, and development
+- AI-assisted economic intelligence and reproducible policy analysis
+
+## Methods
+
+My empirical work uses R and Python for data construction, visualization, econometric estimation, and reproducible reporting. Methods represented in my portfolio include:
+
+- Difference-in-differences and event-study designs
+- Fixed-effects models
+- Clustered and heteroskedasticity-and-autocorrelation-consistent inference
+- Vector autoregression, impulse responses, and variance decomposition
+- Concentration indices and dependency measures
+- Machine-learning-assisted data preparation
+
+## Education
+
+**M.A. in Econometrics**  
+*[Add university name, city, and expected graduation date]*
+
+Relevant fields: econometrics, machine learning, program evaluation, monetary economics, development economics, and health economics.
+
+**Earlier degree**  
+*[Add degree, field, institution, and graduation year]*
+
+## Beyond research
+
+My broader intellectual interests include the history of economic thought, international law, governance, languages, and the relationship between ethical traditions and institutional life. These interests inform my perspective, while the research presented on this site remains grounded in transparent methods and evidence.
+
+[View research](research.qmd){.btn .btn-primary} [View CV](cv.qmd){.btn .btn-outline-primary}

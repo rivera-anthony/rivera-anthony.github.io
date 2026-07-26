@@ -1,0 +1,108 @@
+---
+title: "Anthony Rivera"
+subtitle: "Econometrics, Monetary Economics, and Applied Policy Research"
+description: "Academic portfolio of Anthony Rivera, an emerging economist working at the intersection of econometrics, monetary institutions, governance, and economic intelligence."
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+## Econometric research for consequential policy questions
+
+I am an emerging economist and econometrician studying monetary institutions, digital currencies, governance capacity, and the application of computational methods to public policy. My work combines empirical discipline with an interest in how institutions respond to technological change, financial transformation, and strategic competition.
+
+[View my research](research.qmd){.btn .btn-primary} [View my CV](cv.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.hero-aside}
+**Current focus**
+
+- Monetary-policy transmission and central-bank balance sheets
+- Causal policy evaluation and applied econometrics
+- Strategic trade, governance, and economic intelligence
+
+*Preparing for doctoral study in economics and political economy.*
+:::
+:::
+
+## Research areas
+
+::: {.grid .research-grid}
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Monetary institutions
+
+CBDCs, quantitative easing, monetary-policy transmission, and the institutional architecture of central banking.
+:::
+
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Policy evaluation
+
+Causal inference, program evaluation, health economics, and development economics using transparent empirical designs.
+:::
+
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Economic intelligence
+
+Strategic trade, governance capacity, institutional resilience, and responsible uses of AI in economic analysis.
+:::
+:::
+
+## Selected research
+
+::: {.project-feature}
+### CBDC and Monetary Transmission in Switzerland
+
+An empirical study of whether a CBDC pilot altered the transmission of monetary-policy shocks through lending, deposit, and exchange-rate channels.
+
+**Methods:** OLS with HAC standard errors, interaction models, and time-series analysis  
+**Status:** Graduate research paper
+
+[Project overview](projects.qmd#cbdc-and-monetary-transmission-in-switzerland) · [Paper PDF — add link](#) · [Repository — add link](#)
+:::
+
+::: {.project-feature}
+### Quantitative Easing and the Balance-Sheet Channel
+
+An investigation of how Federal Reserve asset holdings and duration removal relate to the ten-year Treasury term premium.
+
+**Methods:** Newey–West inference, vector autoregression, impulse responses, and forecast-error variance decomposition  
+**Status:** Research project
+
+[Project overview](projects.qmd#quantitative-easing-and-the-balance-sheet-channel) · [Paper PDF — add link](#) · [Repository — add link](#)
+:::
+
+::: {.project-feature}
+### Israel Bilateral Defense Trade
+
+A partner-level analysis of strategic trade patterns, structural breaks, and supplier concentration across defense-relevant product groups.
+
+**Methods:** Two-way fixed effects, difference-in-differences, breakpoint analysis, and concentration measures  
+**Status:** Graduate econometrics project
+
+[Project overview](projects.qmd#israel-bilateral-defense-trade) · [Paper PDF — add link](#) · [Repository — add link](#)
+:::
+
+[Explore all projects](projects.qmd){.btn .btn-outline-primary}
+
+## Current research direction
+
+::: {.initiative}
+### AI Economic Intelligence Nexus
+
+I am developing a research program on how economists, public institutions, and policy organizations can use agentic AI and reproducible data systems to identify economic vulnerabilities, interpret strategic change, and support institutional decision-making.
+
+This initiative is presented as a **concept in development**. Its purpose is to connect econometrics, political economy, governance, and responsible AI—not to substitute automated output for scholarly judgment.
+
+[Read the research agenda](research.qmd#economic-intelligence-and-governance)
+:::
+
+## Methods and tools
+
+`Econometrics` &nbsp; `Causal inference` &nbsp; `Time-series analysis` &nbsp; `Machine learning` &nbsp; `R` &nbsp; `Python` &nbsp; `Quarto` &nbsp; `Reproducible research`
+
+## Contact
+
+I welcome correspondence concerning research, doctoral study, policy analysis, and collaborative empirical work.
+
+[Contact me](contact.qmd) · [View GitHub](https://github.com/rivera-anthony)

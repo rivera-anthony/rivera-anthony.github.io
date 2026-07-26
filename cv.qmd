@@ -1,0 +1,71 @@
+---
+title: "Curriculum Vitae"
+description: "Academic curriculum vitae of Anthony Rivera."
+toc: false
+---
+
+::: {.placeholder}
+**PDF placeholder:** Add your current academic CV at `assets/Anthony-Rivera-CV.pdf`, then replace this notice with a download button linking to that file.
+:::
+
+## Anthony Rivera
+
+**Econometrics · Monetary Economics · Applied Policy Research**
+
+[YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com) · [GitHub](https://github.com/rivera-anthony) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/) · Chicago, Illinois
+
+## Education
+
+**M.A., Econometrics**  
+*[University name]*, *[City, State]*  
+Expected *[Month Year]*
+
+Selected coursework: econometrics, machine learning, program evaluation, monetary economics, applied development economics, and applied health economics.
+
+**[Prior degree]**, *[Field]*  
+*[Institution]*, *[Year]*
+
+## Research interests
+
+Applied econometrics; monetary economics; central banking; digital currencies; causal policy evaluation; international political economy; governance and institutional capacity; AI-assisted economic intelligence.
+
+## Selected research
+
+**CBDC and Monetary Transmission in Switzerland**  
+Graduate research paper. Studies monetary-policy pass-through across lending, deposit, credit, and exchange-rate channels.
+
+**Quantitative Easing and the Balance-Sheet Channel**  
+Research project. Examines Federal Reserve holdings and the ten-year Treasury term premium using time-series methods.
+
+**Israel Bilateral Defense Trade**  
+Graduate econometrics project. Analyzes bilateral trade, structural change, and supplier concentration in strategically relevant product groups.
+
+**Medicaid Expansion and Health Outcomes**  
+Replication and policy-analysis project using difference-in-differences and state-clustered inference.
+
+## Technical skills
+
+**Programming:** R, Python  
+**Econometrics:** causal inference, panel-data models, time-series analysis, robust inference  
+**Research tools:** Quarto, LaTeX, Git, GitHub, Jupyter, Overleaf  
+**Data:** UN Comtrade, BIS, SNB, Federal Reserve and U.S. Treasury sources
+
+## Experience
+
+**[Position title]** — *[Organization]*  
+*[Dates]*
+
+- Add two to four achievement-oriented bullets.
+- Emphasize research, quantitative analysis, policy work, teaching, leadership, or institutional responsibility.
+
+## Awards and service
+
+- *[Add scholarship, honor, professional association, research service, or relevant leadership]*
+
+## Languages
+
+- English — Native
+- German — *[Level]*
+- Italian — *[Level]*
+- Spanish — *[Level]*
+- Hebrew — *[Level]*

@@ -1,0 +1,84 @@
+---
+title: "Research"
+description: "Research agenda, fields, working papers, and works in progress."
+---
+
+## Research agenda
+
+My research examines how institutions transmit policy, respond to technological change, and manage economic vulnerability. I am particularly interested in settings where formal policy decisions pass through complex institutional channels: central-bank balance sheets, commercial banks, cross-border trade relationships, public programs, and administrative systems.
+
+Three principles guide this work:
+
+1. **Identification matters.** Policy claims should be supported by research designs appropriate to the available variation and data.
+2. **Institutions matter.** Coefficients acquire meaning through the legal, political, and organizational structures that generate them.
+3. **Reproducibility matters.** Research should make its sources, transformations, assumptions, and limitations visible.
+
+## Monetary institutions and financial transmission
+
+My primary research interest concerns how monetary institutions transmit policy in a period of technological and balance-sheet transformation.
+
+Current questions include:
+
+- Does the introduction of central-bank digital infrastructure alter the pass-through of policy-rate changes?
+- How do asset purchases affect long-term yields through duration removal and term-premium channels?
+- How should researchers distinguish policy announcements, balance-sheet quantities, and market expectations?
+- What institutional safeguards are required as public and private forms of digital money develop?
+
+### Related work
+
+- [CBDC and Monetary Transmission in Switzerland](projects.qmd#cbdc-and-monetary-transmission-in-switzerland)
+- [Quantitative Easing and the Balance-Sheet Channel](projects.qmd#quantitative-easing-and-the-balance-sheet-channel)
+
+## Causal policy evaluation
+
+A second strand of my work uses applied econometrics to evaluate public programs and development interventions. I am interested in how identification choices affect the credibility and policy relevance of empirical conclusions.
+
+This work includes difference-in-differences, fixed-effects estimation, event studies, clustered inference, robustness testing, and replication. My objective is to treat replication as a substantive research practice: a way to understand how results depend on samples, specifications, variable construction, and institutional context.
+
+### Related work
+
+- [Medicaid Expansion and Health Outcomes](projects.qmd#medicaid-expansion-and-health-outcomes)
+- [Microfinance and Applied Development Economics](projects.qmd#microfinance-and-applied-development-economics)
+
+## Economic intelligence and governance
+
+My emerging research agenda connects econometrics with strategic economic intelligence. It asks how analysts can combine public data, institutional knowledge, and responsible AI systems to identify dependencies, monitor economic pressure, and support public decision-making.
+
+The purpose is not prediction without accountability. It is to develop transparent analytical systems in which sources, transformations, uncertainty, and human judgment remain visible.
+
+Potential applications include:
+
+- Strategic trade and supply-chain concentration
+- Monetary and financial vulnerability
+- Institutional-capacity diagnostics
+- Policy monitoring and structured early warning
+- Reproducible synthesis across heterogeneous public data
+
+### Related work
+
+- [Israel Bilateral Defense Trade](projects.qmd#israel-bilateral-defense-trade)
+- [AI Economic Intelligence Nexus](projects.qmd#ai-economic-intelligence-nexus)
+
+## Working papers
+
+::: {.placeholder}
+**Add formal working papers here as they become ready for circulation.**
+
+For each paper, include the title, coauthors, abstract, status, latest revision date, PDF, replication repository, and a suggested citation.
+:::
+
+## Works in progress
+
+| Project | Field | Current stage |
+|---|---|---|
+| CBDC and Monetary Transmission in Switzerland | Monetary economics | Revision and extension |
+| Quantitative Easing and the Balance-Sheet Channel | Monetary economics | Empirical refinement |
+| Strategic Trade and Economic Dependency | International political economy | Research design |
+| AI Economic Intelligence Nexus | Computational economics | Concept development |
+
+*Replace the stages above as the projects develop.*
+
+## Research materials
+
+[Projects](projects.qmd) · [Code & Data](code.qmd) · [CV](cv.qmd)
+

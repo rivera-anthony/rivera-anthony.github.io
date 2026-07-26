@@ -1,0 +1,85 @@
+---
+title: "Projects"
+description: "Selected empirical research projects in monetary economics, policy evaluation, development, and political economy."
+---
+
+## Selected empirical work
+
+The projects below represent graduate research, replication work, and developing research initiatives. Each entry distinguishes completed analysis from work still in development and provides space for a paper, figures, data documentation, and a reproducible repository.
+
+## CBDC and Monetary Transmission in Switzerland
+
+**Field:** Monetary economics · **Status:** Graduate research paper
+
+This project examines whether the introduction of a Swiss CBDC pilot changed the transmission of monetary-policy shocks. It considers price channels through mortgage and deposit rates, quantity channels through deposits and credit, and exchange-rate or portfolio channels through the nominal effective exchange rate.
+
+The empirical analysis uses monthly macro-financial data, policy-shock interactions, ordinary least squares with heteroskedasticity-and-autocorrelation-consistent inference, and supporting time-series analysis. The present evidence is interpreted cautiously because the post-pilot window is limited.
+
+- **Research question:** Did the CBDC pilot alter the strength or direction of monetary-policy transmission?
+- **Data:** Swiss National Bank, Bank for International Settlements, and related macroeconomic sources
+- **Methods:** Interaction models, HAC inference, and time-series diagnostics
+- **Add:** [Paper PDF](#) · [Figure](#) · [Code repository](#) · [Data documentation](#)
+
+## Quantitative Easing and the Balance-Sheet Channel
+
+**Field:** Monetary economics · **Status:** Research project
+
+This project studies the relationship between Federal Reserve asset holdings and the ten-year Treasury term premium. It focuses on the balance-sheet channel of quantitative easing: whether the removal of duration risk from private portfolios compresses longer-term yields.
+
+The analysis combines Federal Reserve System Open Market Account holdings, Treasury market measures, the Federal Funds Rate, inflation, market volatility, and the New York Fed’s Adrian–Crump–Moench term-premium estimate.
+
+- **Research question:** How do changes in Federal Reserve asset holdings propagate to the term premium?
+- **Data:** Federal Reserve Bank of New York, U.S. Treasury, FRED, and market-volatility sources
+- **Methods:** Newey–West estimation, vector autoregression, impulse responses, and variance decomposition
+- **Add:** [Paper PDF](#) · [IRF figure](#) · [Code repository](#) · [Data appendix](#)
+
+## Israel Bilateral Defense Trade
+
+**Field:** International political economy · **Status:** Graduate econometrics project
+
+This project analyzes Israel’s bilateral trade in defense-relevant product groups from 2019 through 2024. It evaluates changes across major partners, tests for differential post-period movements, and measures concentration by supplier and product chapter.
+
+The analysis is designed as a study of strategic economic dependency rather than a claim that customs classifications perfectly identify military end use. That distinction is central to the interpretation of the results.
+
+- **Research question:** How did bilateral patterns and supplier concentration change across strategically relevant product groups?
+- **Data:** UN Comtrade monthly bilateral trade records
+- **Methods:** Descriptive breakpoints, two-way fixed effects, difference-in-differences, and Herfindahl–Hirschman concentration measures
+- **Add:** [Paper PDF](#) · [Trade figure](#) · [Code repository](#) · [Classification notes](#)
+
+## Medicaid Expansion and Health Outcomes
+
+**Field:** Health economics · **Status:** Replication and policy analysis
+
+This project applies program-evaluation methods to the study of Medicaid expansion and health-related outcomes. It emphasizes correct inference, transparent replication, and the relationship between estimated effects and policy interpretation.
+
+- **Research question:** How did Medicaid expansion affect the outcomes examined in the source study?
+- **Methods:** Difference-in-differences, state-level fixed effects, and clustered standard errors
+- **Add:** [Policy brief](#) · [Replication report](#) · [R repository](#) · [Source study](#)
+
+## Microfinance and Applied Development Economics
+
+**Field:** Development economics · **Status:** Coursework project
+
+This project examines microfinance as a development intervention, with attention to identification, heterogeneous effects, institutional context, and the difference between expanded credit access and durable welfare improvement.
+
+- **Research question:** *[Insert the final project-specific research question]*
+- **Data:** *[Insert dataset and geographic coverage]*
+- **Methods:** *[Insert final econometric strategy]*
+- **Add:** [Paper PDF](#) · [Main figure](#) · [Code repository](#) · [Data source](#)
+
+## AI Economic Intelligence Nexus
+
+**Field:** Computational economics and governance · **Status:** Concept in development
+
+The AI Economic Intelligence Nexus is a proposed research and analytical framework for combining public economic data, econometric models, institutional analysis, and agentic AI workflows. Its goal is to support structured inquiry into strategic trade, monetary vulnerability, governance capacity, and policy risk.
+
+The initiative will emphasize provenance, reproducibility, uncertainty, human oversight, and clear boundaries between evidence and inference.
+
+- **Initial application:** Strategic-resource and trade-dependency monitoring
+- **Research contribution:** A transparent architecture for AI-assisted economic intelligence
+- **Add:** [Concept paper](#) · [Architecture diagram](#) · [Prototype repository](#) · [Research roadmap](#)
+
+## Using this portfolio
+
+Links marked **Add** are placeholders. Replace them as materials become ready for public circulation. Where underlying data cannot be redistributed, link to the official source and publish the retrieval and cleaning code instead.
+
