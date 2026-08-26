@@ -43,12 +43,12 @@ My empirical work uses R and Python for data construction, visualization, econom
 ## Education
 
 **M.A. in Econometrics**  
-*[Add university name, city, and expected graduation date]*
+*[University of Oklahoma, Norman - August, 2026]*
 
 Relevant fields: econometrics, machine learning, program evaluation, monetary economics, development economics, and health economics.
 
-**Earlier degree**  
-*[Add degree, field, institution, and graduation year]*
+**B.S. in Economics**  
+*[North Park University, Chicago - December, 2021]*
 
 ## Beyond research
 
