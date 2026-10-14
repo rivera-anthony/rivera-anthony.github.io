@@ -18,7 +18,7 @@ The empirical analysis uses monthly macro-financial data, policy-shock interacti
 - **Research question:** Did the CBDC pilot alter the strength or direction of monetary-policy transmission?
 - **Data:** Swiss National Bank, Bank for International Settlements, and related macroeconomic sources
 - **Methods:** Interaction models, HAC inference, and time-series diagnostics
-- **Add:** [Paper PDF](#) · [Figure](#) · [Code repository](#) · [Data documentation](#)
+- **Paper:** [Read Full Paper (PDF)](papers/The%20Impact%20of%20Central%20Bank%20Digital%20Currencies%20CBDCs%20on%20Monetary%20Policy%20Transmission.pdf){target="_blank"} · [Figure](#) · [Code repository](#) · [Data documentation](#)
 
 ## Quantitative Easing and the Balance-Sheet Channel
 
