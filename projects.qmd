@@ -31,7 +31,7 @@ The analysis combines Federal Reserve System Open Market Account holdings, Treas
 - **Research question:** How do changes in Federal Reserve asset holdings propagate to the term premium?
 - **Data:** Federal Reserve Bank of New York, U.S. Treasury, FRED, and market-volatility sources
 - **Methods:** Newey–West estimation, vector autoregression, impulse responses, and variance decomposition
-- **Add:** [Paper PDF](#) · [IRF figure](#) · [Code repository](#) · [Data appendix](#)
+- - **Paper:** [Read Full Research Paper (PDF)](papers/Quantitative%20Easing%20and%20the%20Balance%20Sheet%20Channel.pdf){target="_blank"} · [IRF figure](#) · [Code repository](#) · [Data appendix](#) · [IRF figure](#) · [Code repository](#) · [Data appendix](#)
 
 ## Israel Bilateral Defense Trade
 
