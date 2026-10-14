@@ -58,7 +58,7 @@ An empirical study of whether a CBDC pilot altered the transmission of monetary-
 **Methods:** OLS with HAC standard errors, interaction models, and time-series analysis  
 **Status:** Graduate research paper
 
-[Project overview](projects.qmd#cbdc-and-monetary-transmission-in-switzerland) · [Paper PDF — add link](#) · [Repository — add link](#)
+[Project overview](projects.qmd#cbdc-and-monetary-transmission-in-switzerland) · [Read Paper (PDF)](papers/The%20Impact%20of%20Central%20Bank%20Digital%20Currencies%20CBDCs%20on%20Monetary%20Policy%20Transmission.pdf){target="_blank"} · [Repository — add link](#)
 :::
 
 ::: {.project-feature}
