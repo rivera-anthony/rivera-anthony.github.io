@@ -69,7 +69,7 @@ An investigation of how Federal Reserve asset holdings and duration removal rela
 **Methods:** Newey–West inference, vector autoregression, impulse responses, and forecast-error variance decomposition  
 **Status:** Research project
 
-[Project overview](projects.qmd#quantitative-easing-and-the-balance-sheet-channel) · [Paper PDF — add link](#) · [Repository — add link](#)
+[Project overview](projects.qmd#quantitative-easing-and-the-balance-sheet-channel) · [Read Paper (PDF)](papers/Quantitative%20Easing%20and%20the%20Balance%20Sheet%20Channel.pdf){target="_blank"} · [Repository — add link](#)
 :::
 
 ::: {.project-feature}
