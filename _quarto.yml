@@ -32,7 +32,7 @@ website:
         href: "https://github.com/rivera-anthony"
         aria-label: "GitHub"
       - icon: linkedin
-        href: "https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/"
+        href: "https://www.linkedin.com/in/anthony-rivera06"
         aria-label: "LinkedIn"
       - icon: envelope
         href: contact.qmd
