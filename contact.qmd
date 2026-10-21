@@ -8,9 +8,9 @@ toc: false
 
 I welcome correspondence concerning econometrics, monetary economics, public-policy research, doctoral study, and potential research collaboration.
 
-**Email:** [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)  
+**Email:** [rivera.anthony@protonmail.ch](mailto:rivera.anthony@protonmail.ch)
 **GitHub:** [github.com/rivera-anthony](https://github.com/rivera-anthony)  
-**LinkedIn:** [Add LinkedIn profile](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/)  
+**LinkedIn:** [Anthony Rivera](https://www.linkedin.com/in/anthony-rivera06)
 **Location:** Chicago, Illinois
 
 ::: {.contact-note}
